@@ -1,0 +1,112 @@
+{
+    "images": [
+        {
+            "name": "Burger",
+            "imagesrc": "Burger.png"
+        },
+        {
+            "name": "Buritto",
+            "imagesrc": "Buritto.png"
+        },
+        {
+            "name": "Cake",
+            "imagesrc": "Cake.png"
+        },
+        {
+            "name": "Carrot",
+            "imagesrc": "Carrot.png"
+        },
+        {
+            "name": "Chef",
+            "imagesrc": "Chef.png"
+        },
+        {
+            "name": "Cofee",
+            "imagesrc": "Cofee.png"
+        },
+        {
+            "name": "Cookies",
+            "imagesrc": "Cookies.png"
+        },
+        {
+            "name": "Croisant",
+            "imagesrc": "Croisant.png"
+        },
+        {
+            "name": "CupCake",
+            "imagesrc": "CupCake.png"
+        },
+        {
+            "name": "Donut",
+            "imagesrc": "Donut.png"
+        },
+        {
+            "name": "EggBacon",
+            "imagesrc": "EggBacon.png"
+        },
+        {
+            "name": "Eggplant",
+            "imagesrc": "Eggplant.png"
+        },
+        {
+            "name": "Float",
+            "imagesrc": "Float.png"
+        },
+        {
+            "name": "Fries",
+            "imagesrc": "Fries.png"
+        },
+        {
+            "name": "HotDog",
+            "imagesrc": "HotDog.png"
+        },
+        {
+            "name": "IceCream",
+            "imagesrc": "IceCream.png"
+        },
+        {
+            "name": "Lolipop",
+            "imagesrc": "Lolipop.png"
+        },
+        {
+            "name": "LolipopSwirl",
+            "imagesrc": "LolipopSwirl.png"
+        },
+        {
+            "name": "Macaroon",
+            "imagesrc": "Macaroon.png"
+        },
+        {
+            "name": "Meat",
+            "imagesrc": "Meat.png"
+        },
+        {
+            "name": "Pancake",
+            "imagesrc": "Pancake.png"
+        },
+        {
+            "name": "Pizza",
+            "imagesrc": "Pizza.png"
+        },
+        {
+            "name": "Popsicle",
+            "imagesrc": "Popsicle.png"
+        },
+        {
+            "name": "Pretzel",
+            "imagesrc": "Pretzel.png"
+        },
+        {
+            "name": "Steak",
+            "imagesrc": "Steak.png"
+        },
+        {
+            "name": "SushiCaviar",
+            "imagesrc": "SushiCaviar.png"
+        },
+        {
+            "name": "Taco",
+            "imagesrc": "Taco.png"
+        }
+    ]
+}

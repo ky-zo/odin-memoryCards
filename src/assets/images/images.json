@@ -1,0 +1,163 @@
+[
+        {
+            "name": "Burger",
+            "imagesrc": "Burger.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Buritto",
+            "imagesrc": "Buritto.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Cake",
+            "imagesrc": "Cake.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Carrot",
+            "imagesrc": "Carrot.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Chef",
+            "imagesrc": "Chef.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Cofee",
+            "imagesrc": "Cofee.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Cookies",
+            "imagesrc": "Cookies.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Croisant",
+            "imagesrc": "Croisant.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "CupCake",
+            "imagesrc": "CupCake.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Donut",
+            "imagesrc": "Donut.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "EggBacon",
+            "imagesrc": "EggBacon.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Eggplant",
+            "imagesrc": "Eggplant.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Float",
+            "imagesrc": "Float.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Fries",
+            "imagesrc": "Fries.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "HotDog",
+            "imagesrc": "HotDog.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "IceCream",
+            "imagesrc": "IceCream.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Lolipop",
+            "imagesrc": "Lolipop.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "LolipopSwirl",
+            "imagesrc": "LolipopSwirl.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Macaroon",
+            "imagesrc": "Macaroon.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Meat",
+            "imagesrc": "Meat.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Pancake",
+            "imagesrc": "Pancake.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Pizza",
+            "imagesrc": "Pizza.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Popsicle",
+            "imagesrc": "Popsicle.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Pretzel",
+            "imagesrc": "Pretzel.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Steak",
+            "imagesrc": "Steak.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "SushiCaviar",
+            "imagesrc": "SushiCaviar.png",
+            "active": false,
+            "picked": false
+        },
+        {
+            "name": "Taco",
+            "imagesrc": "Taco.png",
+            "active": false,
+            "picked": false
+        }    ]
