@@ -2,162 +2,135 @@
         {
             "name": "Burger",
             "imagesrc": "Burger.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Buritto",
             "imagesrc": "Buritto.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Cake",
             "imagesrc": "Cake.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Carrot",
             "imagesrc": "Carrot.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Chef",
             "imagesrc": "Chef.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Cofee",
             "imagesrc": "Cofee.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Cookies",
             "imagesrc": "Cookies.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Croisant",
             "imagesrc": "Croisant.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "CupCake",
             "imagesrc": "CupCake.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Donut",
             "imagesrc": "Donut.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "EggBacon",
             "imagesrc": "EggBacon.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Eggplant",
             "imagesrc": "Eggplant.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Float",
             "imagesrc": "Float.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Fries",
             "imagesrc": "Fries.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "HotDog",
             "imagesrc": "HotDog.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "IceCream",
             "imagesrc": "IceCream.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Lolipop",
             "imagesrc": "Lolipop.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "LolipopSwirl",
             "imagesrc": "LolipopSwirl.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Macaroon",
             "imagesrc": "Macaroon.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Meat",
             "imagesrc": "Meat.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Pancake",
             "imagesrc": "Pancake.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Pizza",
             "imagesrc": "Pizza.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Popsicle",
             "imagesrc": "Popsicle.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Pretzel",
             "imagesrc": "Pretzel.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Steak",
             "imagesrc": "Steak.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "SushiCaviar",
             "imagesrc": "SushiCaviar.png",
-            "active": false,
-            "picked": false
+            "played": false
         },
         {
             "name": "Taco",
             "imagesrc": "Taco.png",
-            "active": false,
-            "picked": false
+            "played": false
         }    ]
