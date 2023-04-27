@@ -131,7 +131,8 @@ function App() {
                     </div>
                 </div>
             </div>
-            <div className="flex-1 flex gap-x-4 gap-y-4 justify-center items-center flex-wrap w-4/5">
+            {/* <div className="flex-1 flex gap-x-4 gap-y-4 justify-center items-center flex-wrap w-4/5"> */}
+            <div className="flex-1 flex flex-wrap gap-x-4 gap-y-4 justify-center items-center w-4/5 md:gap-x-10">
                 {shuffle([...activeCards]).map((card) => {
                     return (
                         <Card key={card.id} image={card.imagesrc} name={card.name} onPlayerMove={handlePlayerMove} played={card.played} />
