@@ -11,7 +11,7 @@ function Card({ id, image, name, onPlayerMove, played }) {
         >
             <div className="w-16 sm:w-20 md:w-24 flex-1 align-middle relative">
                 <img src={`/images/${image}`} className="absolute"></img>
-                <img className="blur-xl -z-10 absolute" src={`../../src/assets/images/${image}`}></img>
+                <img className="blur-xl -z-10 absolute" src={`/images/${image}`}></img>
             </div>
             <div className="text-sm">{name}</div>
         </button>
